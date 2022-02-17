@@ -21,7 +21,7 @@ import java.util.List;
  * 0.200000
  * <p>
  * Function Description
- * Complete the plusMinus function in the editor below.
+ * Write a plusMinus function
  * <p>
  * plusMinus has the following parameter(s):
  * int arr[n]: an array of integers
